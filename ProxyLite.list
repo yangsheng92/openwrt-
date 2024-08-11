@@ -11,15 +11,6 @@ IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 
 # 国外DNS
-DOMAIN-SUFFIX,seller.tiktokglobalshop.com
-DOMAIN-SUFFIX,tiktokglobalshop.com
-DOMAIN-SUFFIX,affiliate.tiktokglobalshop.com
-DOMAIN-KEYWORD,seller.tiktokglobalshop
-DOMAIN-KEYWORD,tiktokglobalshop
-DOMAIN-KEYWORD,affiliate.tiktokglobalshop
-DOMAIN-SUFFIX,login.aliexpress.com
-DOMAIN-SUFFIX,aliexpress.com
-DOMAIN-KEYWORD,aliexpress
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
