@@ -5,6 +5,11 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
 DOMAIN-SUFFIX,login.aliexpress.com
+DOMAIN-KEYWORD,feedback.aliexpress
+DOMAIN-KEYWORD,moduleanalysis.aliexpress
+DOMAIN-KEYWORD,acs.aliexpress.com
+DOMAIN-KEYWORD,recom-acs.aliexpress
+DOMAIN-KEYWORD,s.click.aliexpress
 DOMAIN-SUFFIX,aliexpress.com
 DOMAIN-KEYWORD,aliexpress
 DOMAIN-KEYWORD,login.aliexpress
