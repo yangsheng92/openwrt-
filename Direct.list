@@ -45,9 +45,14 @@ DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiao.com
 
-#聚水潭
+#聚水潭-TK商店
 DOMAIN-SUFFIX,erp321.com
 DOMAIN-KEYWORD,erp321
+DOMAIN-SUFFIX,seller.tiktokglobalshop.com
+DOMAIN-SUFFIX,tiktokglobalshop.com
+DOMAIN-SUFFIX,affiliate.tiktokglobalshop.com
+DOMAIN-KEYWORD,seller.tiktokglobalshop
+DOMAIN-KEYWORD,tiktokglobalshop
 
 #1688
 DOMAIN-SUFFIX,1688.com
