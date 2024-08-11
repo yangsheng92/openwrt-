@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
 DOMAIN-SUFFIX,login.aliexpress.com
 DOMAIN-KEYWORD,feedback.aliexpress
+DOMAIN-KEYWORD,aliexpress
 DOMAIN-KEYWORD,moduleanalysis.aliexpress
 DOMAIN-KEYWORD,acs.aliexpress.com
 DOMAIN-KEYWORD,recom-acs.aliexpress
