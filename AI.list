@@ -9,6 +9,7 @@ DOMAIN-KEYWORD,xiapibuy
 DOMAIN-KEYWORD,th.xiapibuy
 # 域名后缀匹配
 DOMAIN-SUFFIX,co.th
+DOMAIN-SUFFIX,shopee.co
 DOMAIN-SUFFIX,login.aliexpress.com
 DOMAIN-KEYWORD,feedback.aliexpress
 DOMAIN-KEYWORD,aliexpress
@@ -19,6 +20,7 @@ DOMAIN-KEYWORD,s.click.aliexpress
 DOMAIN-SUFFIX,aliexpress.com
 DOMAIN-KEYWORD,aliexpress
 DOMAIN-KEYWORD,login.aliexpress
+DOMAIN-KEYWORD,shopee.co
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
@@ -39,3 +41,4 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
+DOMAIN-SUFFIX,shopee.co.th
