@@ -3,7 +3,12 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,shopee
+DOMAIN-KEYWORD,shopee.co
+DOMAIN-KEYWORD,xiapibuy
+DOMAIN-KEYWORD,th.xiapibuy
 # 域名后缀匹配
+DOMAIN-SUFFIX,co.th
 DOMAIN-SUFFIX,login.aliexpress.com
 DOMAIN-KEYWORD,feedback.aliexpress
 DOMAIN-KEYWORD,aliexpress
